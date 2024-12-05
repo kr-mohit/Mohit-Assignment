@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android Assignment</string>
+    <string name="see_all">See All</string>
+    <string name="media">Media</string>
+    <string name="play_icon">Play Icon</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="hashtags">#%1$s</string>
+</resources>
